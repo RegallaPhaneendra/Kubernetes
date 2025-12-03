@@ -44,7 +44,7 @@ Now upgrade the Kubernetes cluster
 
           sudo systemctl daemon-reload
 
-          sudo ststemctl restart kubelet
+          sudo systemctl restart kubelet
 
 (7) Uncordon the node:
 
