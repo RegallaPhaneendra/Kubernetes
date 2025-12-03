@@ -1,6 +1,6 @@
-## UPGRADING **kubeadm** CLUSTER
+## UPGRADING kubeadm CLUSTER
 
-# Point to be noted
+# Points to be noted
 
 => Upgrade Primary Control Plane node
 => Upgrade additional control plane node
