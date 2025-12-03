@@ -1,4 +1,4 @@
-## UPGRADING kubeadm CLUSTER
+## UPGRADING **kubeadm** CLUSTER
 
 # Point to be noted
 
